@@ -27,4 +27,5 @@ Jupiter airdrop 2025 round2 bots wallets statistics
 | %        | 7.38     | 8.89       | 8.19       | 9.59      | 15.20    | 36.22  |
 
 *based on data from [jupresear.ch](https://www.jupresear.ch/t/jupiter-jup-airdrop-balanced-proposal-for-jupuary-2025/26573)
+
 **based on data from [Another jupiter volume query for airdrop round2](https://dune.com/queries/4432808)
