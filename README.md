@@ -29,3 +29,11 @@ Jupiter airdrop 2025 round2 bots wallets statistics
 *based on data from [jupresear.ch](https://www.jupresear.ch/t/jupiter-jup-airdrop-balanced-proposal-for-jupuary-2025/26573)
 
 **based on data from [Another jupiter volume query for airdrop round2](https://dune.com/queries/4432808)
+
+
+# Adjusted based on latest data (input_usd only)
+| Category | <$1000   | $1000-$10K | $10K-$100K | $100K-$1M | $1M-$10M | \>$10M |
+| -------- | -------- | ---------- | ---------- | --------- | -------- | ------ |
+| Bots     | 970260   | 126533     | 49047      | 14944     | 3804     | 1290   |
+| Total*** | 7040502  | 1640307    | 697434     | 175775    | 23298    | 2684   |
+| %        | 13.78    | 7.71       | 7.03       | 8.50      | 16.32    | 48.06  |
